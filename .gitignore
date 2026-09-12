@@ -6,3 +6,7 @@ P1_2025_2-pt2.HEIC
 P1_2025_2-pt1.HEIC
 Questao4P1-2025.py
 RevisaoP1.txt
+edl-*
+*.exe
+*.o
+*.hi
